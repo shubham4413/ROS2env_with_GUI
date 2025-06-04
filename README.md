@@ -51,3 +51,5 @@ I have included the source Dockerfile in this repository. You can clone this rep
   vglrun gazebo
   vglrun rviz2
   ```
+## Example Image: 
+<img width="1087" alt="image" src="https://github.com/user-attachments/assets/9809bf67-0820-4ac8-b957-d194d7b9294e" />
